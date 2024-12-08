@@ -333,7 +333,7 @@
 * [.NET Chat](https://t.me/DotNetChat) — Чат про .NET под эгидой MSK/SPB .NET Community Group
 * [pro.net](https://t.me/pro_net) — Обсуждение .NET Framework и всего, что с ним связано.
 * [ООП](https://t.me/oop_ru) — Объектно-Ориентированное Программирование
-* [Fire-Monkey](https://t.me/fire_monkey) — Независимое сообщество разработчиков использующих Fire-Monkey
+* [Fire-Monkey](https://t.me/fmx_ru) — Независимое сообщество разработчиков использующих Fire-Monkey (FMX) и FGX Native
 * [WordPress](https://t.me/wordpress1) — Чат про WordPress
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
 * [Vim](https://t.me/vimedit_ru) — Русскоязычные вимеры
